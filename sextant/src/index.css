@@ -37,3 +37,9 @@ code {
  text-transform: uppercase;
  color: #656868;
 }
+.ip_set{
+  font-weight: 500;
+  font-size: 1.6rem;
+  text-align: center;
+  color: #046739;
+}
